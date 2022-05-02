@@ -59,7 +59,7 @@
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "axios": "^0.26.1",
-    "core-js": "^3.20.3",
+    "core-js": "^3.22.3",
     "lodash": "^4.17.21",
     "on-change": "^4.0.0",
     "yup": "^0.32.11"
